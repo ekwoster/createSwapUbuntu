@@ -10,6 +10,8 @@ This is a small .sh sript, which creates SWAP file on Ubuntu.
 
 3. Done.
 
+** In some cases you'll have to run it as root user or with sudo in front **
+
 ## Modification
 
 You can open swap.sh file, and change SWAP size or filename.
